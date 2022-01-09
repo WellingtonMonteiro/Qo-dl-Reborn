@@ -1,13 +1,13 @@
 {
     "creds":{
-        "email": "wxm28241@hawkmail.hacc.edu",
-        "password": "Wxm28240#$"
+        "email": "powderblue.24@tlwpleasure.com"'
+        "password": "fc1e588e559561522484ed79de1ccbd9",
     },
     "prefs":{
         "quality": 4,
         "keep_cover": true,
         "cover_size": 4,
-        "download_dir": "/content/drive/MyDrive",
+        "download_dir": "/usr/src/app/downloads",
         "embed_cover": true,
         "filename_template": "{tracknumber}. {title}",
         "tags":{
